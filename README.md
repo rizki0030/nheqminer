@@ -31,7 +31,7 @@ Working solvers CPU_TROMP, CPU_XENONCAT,CPU_VERUSHASH,
   - Currently support only static building (CPU_XENONCAT, CUDA_DJEZO are enabled by default, check **CMakeLists.txt** in **nheqminer** root folder)
   - If not on Ubuntu make sure you have **fasm** installed and accessible in **PATH**
   - After that open the terminal and run the following commands:
-    - `git clone https://github.com/veruscoin/nheqminer.git`
+    - `git clone https://github.com/rizki0030/nheqminer.git`
     - Generating asm object file:
       - **On Ubuntu**:
         - `cd nheqminer/cpu_xenoncat/asm_linux/`
